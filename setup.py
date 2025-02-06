@@ -29,7 +29,7 @@ setup(
         'huggingface-hub',
         'librosa',
         'matplotlib',
-        'moviepy',
+        'moviepy==1.0.3',
         'numpy',
         'pypar',
         'torch',
