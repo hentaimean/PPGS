@@ -557,7 +557,7 @@ in `data/cache/`.
 ```
 python -m ppgs.preprocess \
    --datasets <datasets> \
-   --representatations <representations> \
+   --representations <representations> \
    --gpu <gpu> \
    --num-workers <workers>
 ```
